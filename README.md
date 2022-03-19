@@ -1,8 +1,8 @@
 # Hey! Eu sou Murilo Pistore
 
-- 🧑‍💻 Hoje sou programador Full Stack
-- 📚 Estudando NodeJs e Nuxt
-- 💻 Trabalhando na Digitaldoc
+- 🧑‍💻 Um dia serei um programador full stack
+- 📚 Estudando NodeJs e Angular
+- 💻 Trabalhando na Frimesa
 
 <div align="center">
   <a href="https://github.com/TheBud4">
