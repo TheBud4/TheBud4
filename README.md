@@ -3,7 +3,6 @@
 -   🧑‍💻 Em breve full stack
 -   📚 Estudando NodeJs e Angular
 -   💻 Trabalhando na Frimesa
--   ✉ Email para contato: murilopmr13@hotmail.com
 
 <div align="center">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TheBud4&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
