@@ -1,4 +1,4 @@
-# HI! I´M Murilo Pistore
+# HI! I'M Murilo Pistore
 
 -   🧑‍💻 Em breve full stack
 -   📚 Estudando NodeJs e Angular
