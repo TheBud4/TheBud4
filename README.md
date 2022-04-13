@@ -2,7 +2,7 @@
 
 -   🧑‍💻 Em breve full stack
 -   📚 Estudando NodeJs e Angular
--   💻 Trabalhando na Frimesa
+-   💻 Working in Frimesa
 
 <div align="center">
  <a href="https://github.com/TheBud4">
