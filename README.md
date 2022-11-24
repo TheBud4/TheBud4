@@ -15,4 +15,4 @@
 
 <p><img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebud4&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thebud4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebud4&show_icons=true&theme=dracula&locale=en" alt="thebud4" /></p>
+<p>&nbsp;<img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=thebud4&show_icons=true&theme=dracula&locale=en" alt="thebud4" /></p>
