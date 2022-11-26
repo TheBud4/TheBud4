@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murilo Pistore</h1>
 <h3 align="center">A passionate learning developer from Brasil</h3>
 
-- 🌱 I’m currently learning **JS, TS, React, React Native,NODEJS**
+- 🌱 I’m currently learning **JS, TS, React, React Native, NODEJS**
 - I’m currently working to Frimesa
 
 <h3 align="left">Connect with me:</h3>
