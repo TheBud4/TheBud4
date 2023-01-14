@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learning developer from Brasil</h3>
 
 - 🌱 I’m currently learning **JS, TS, React, React Native, NODEJS**
-- I’m currently working to Frimesa
+- I’m currently seeking for an opportunity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
