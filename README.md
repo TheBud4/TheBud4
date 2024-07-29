@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/murilo_pistore/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a href="murilopmr1333@gmail.com" target="_blank">
+  <a href="mailto:murilopmr1333@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
