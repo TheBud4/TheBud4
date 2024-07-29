@@ -20,11 +20,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm a developer from Paraná - Brasil<br><br>- 🔭 I’m currently open for a opportunity.<br><br>- ⚡ In my free time I like to learn difficult things.</p>
+<p align="left">I'm a developer from Paraná - Brasil<br><br>- 🔭 I’m currently open for a opportunity.<br>- 📚 Learning a lot of things, checkout my recent projects.<br>- ⚡ In my free time I like to learn difficult things.</p>
 
 ###
 
