@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="center">A passionate frontend developer from Brasil.</h4>
+<h4 align="center">A passionate developer from Brasil.</h4>
 
 ###
 
