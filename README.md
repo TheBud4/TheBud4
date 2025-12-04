@@ -69,14 +69,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-### <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-### <div align="center">
-  ### <img src="https://github-readme-stats.vercel.app/api?username=TheBud4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Stats" height="200" alt="stats graph"  />
-###  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheBud4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=onedark&hide_border=true&order=2" height="200" alt="languages graph"  />
-### </div>
