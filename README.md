@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a developer from Paraná - Brasil<br><br>- 🔭 I’m currently open for a opportunity.<br>- 📚 Learning a lot of things, checkout my recent projects.<br>- ⚡ In my free time I like to learn difficult things.</p>
+<p align="left">I'm a developer from Paraná - Brasil<br><br>- 🔭 I’m currently working at NextUp.<br>- 📚 Learning a lot of things, checkout my recent projects.<br>- ⚡ In my free time I like to learn difficult things.</p>
 
 ###
 
